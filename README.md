@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eyshika
-- 👀 I’m interested in Computer Vision And Robotics
+- 👀 I’m interested in AI And Robotics
 - 🌱 I’m currently working as a Computer Vision Engineer.
 - 💞️ I’m looking to collaborate on some Open Source Projects related to Computer Vision And Robotics.
 - 📫 The best way to reach me is through my email.
