@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eyshika
 - 👀 I’m interested in AI And Robotics
-- 🌱 I’m currently working as a Machine Learning Engineer.
+- 🌱 I’m currently working as a Senior Machine Learning Engineer.
 - 💞️ I’m looking to collaborate on some Open Source Projects related to Computer Vision And Robotics.
 - 📫 The best way to reach me is through my email.
 
